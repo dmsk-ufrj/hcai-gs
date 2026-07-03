@@ -134,4 +134,3 @@ a two-cycle inductive coding protocol (n = 103).
 103. **Sourojit Ghosh; Sanjana Gautam; Pranav Narayanan Venkit; Avijit Ghosh** (2025). Documenting Patterns of Exoticism of Marginalized Populations Within Text-to-Image Generators. *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society*. `RQ1`
 
 ---
-*Total: 103 papers · Generated from PPGI/UFRJ HCAI Global South SLR corpus*
