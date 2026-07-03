@@ -1,9 +1,9 @@
 # Appendix A — Corpus of 103 Papers (Paper 1)
 
 This appendix lists all papers included in the systematic literature review 
-reported in Paper 1 of the HCAI Global South research project.
+reported in Human-Centered AI in the Global South: A Brief Survey of Concepts, Methods, and Domains.
 Papers were retrieved via [Lens.org](https://lens.org) and filtered through 
-a two-cycle inductive coding protocol (n = 103 of 127 screened).
+a two-cycle inductive coding protocol (n = 103).
 
 **RQ coverage key:** RQ1 = Conceptualisation · RQ2 = Methods · RQ3 = Domains · RQ4 = Future Agenda
 
